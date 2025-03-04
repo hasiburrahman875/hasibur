@@ -32,7 +32,6 @@
   
 </p>
   
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasiburrahman875&show_icons=true&locale=en&layout=compact" alt="hasiburrahman875" /></p>
 
 <p align="center"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=hasiburrahman875&show_icons=true&locale=en" alt="hasiburrahman875" />&nbsp;<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=hasiburrahman875&" alt="hasiburrahman875" /></p>
 
