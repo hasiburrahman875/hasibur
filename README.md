@@ -12,10 +12,6 @@
 📫 Reach me at <a href="mailto:hasiburrahman875@gmail.com" target=_blanck><b>hasiburrahman875@gmail.com</b></a>
 </p>
 
-### Connect with me:
-<a href="https://www.linkedin.com/in/md-hasibur-rahman-b9071a108/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tasmia-jannat" height="30" width="40" /></a>
-</p>
-<br />
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
